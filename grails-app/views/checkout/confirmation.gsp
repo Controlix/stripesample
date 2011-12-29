@@ -5,6 +5,7 @@
         <r:require module="application"/>
     </head>
     <body>
-        <p>Home Controller > Index Action</p>
+        <h3>Confirmation</h3>
+        <p>${msg}</p>
     </body>
 </html>

@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title><g:layoutTitle default="Carpool"/></title>
+		<title><g:layoutTitle default="Stripe Sample"/></title>
 		<link rel="shortcut icon" href="${resource(dir: 'images', file: 'favicon.ico')}" type="image/x-icon">
 		<g:layoutHead/>
         <r:layoutResources />
