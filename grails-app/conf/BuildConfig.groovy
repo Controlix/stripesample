@@ -46,7 +46,9 @@ grails.project.dependency.resolution = {
 		compile "org.grails.plugins:webxml:1.4.1"
 
         build ":tomcat:$grailsVersion"
+        
+        compile ":stripe:1.0"
     }
 }
 
-grails.plugin.location.'stripe' = "../grails-stripe"
+//grails.plugin.location.'stripe' = "../grails-stripe"
